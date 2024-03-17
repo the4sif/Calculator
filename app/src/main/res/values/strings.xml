@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="saved_high_score_key" />
+    <string name="load_data">Load Data</string>
+    <string name="result">Result</string>
+    <string name="second">second</string>
+    <string name="first">First</string>
+    <string name="div">div</string>
+</resources>
